@@ -1,0 +1,6 @@
+D:\Programovanie\C#\Permutations\Permutations\bin\Debug\Permutations.exe.config
+D:\Programovanie\C#\Permutations\Permutations\obj\Debug\Permutations.csprojResolveAssemblyReference.cache
+D:\Programovanie\C#\Permutations\Permutations\bin\Debug\Permutations.exe
+D:\Programovanie\C#\Permutations\Permutations\bin\Debug\Permutations.pdb
+D:\Programovanie\C#\Permutations\Permutations\obj\Debug\Permutations.exe
+D:\Programovanie\C#\Permutations\Permutations\obj\Debug\Permutations.pdb
